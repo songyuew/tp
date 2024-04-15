@@ -12,13 +12,14 @@ Responsible for developing utilities used in the app, as well as implementing UI
 
 ### Features Implemented
 
-| No. | Release | Contribution                      | User Benefit                                                                      |
-|-----|---------|-----------------------------------|-----------------------------------------------------------------------------------|
-| 1   | `v1.0`  | Built-in help wizard              | New user may seek assistance without exiting the app                              |
-| 2   | `v1.0`  | Use of `Java ASCII Table` library | Mass data (e.g. question sets summary) can be printed in a nicely formatted table |
-| 3 | `v2.0` | Progress bar during quiz attempts | User can know their progress in the middle of a quiz intuitively                  |
-|4| `v2.0`| Progress bar for overall progress | User who are revising for exam can know how many topics they have gone through    |
-|5 | `v2.1` | Implementation of `Java ASCII Table` for quiz results | Statistics of a user is visualized so that users can compare their performance    |
+| No.  | Release | Contribution                                           | User Benefit                                                                      |
+|------|---------|--------------------------------------------------------|-----------------------------------------------------------------------------------|
+| 1    | `v1.0`  | Built-in help wizard                                   | New user may seek assistance without exiting the app                              |
+| 2    | `v1.0`  | Use of `Java ASCII Table` library                      | Mass data (e.g. question sets summary) can be printed in a nicely formatted table |
+| 3    | `v2.0` | Progress bar during quiz attempts                      | User can know their progress in the middle of a quiz intuitively                  |
+| 4    | `v2.0`| Progress bar for overall progress                      | User who are revising for exam can know how many topics they have gone through    |
+| 5    | `v2.1` | Implementation of `Java ASCII Table` for quiz results  | Statistics of a user is visualized so that users can compare their performance    |
+
 ### Contributions to the UG
 
 1. Provided screenshots to different functions of the app.
